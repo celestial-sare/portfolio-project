@@ -4,5 +4,6 @@ body {
 }
 h1 {
     color: black;
-    
+    font-family: "playfair display", serif;
+    font-weight: bold;
 }
